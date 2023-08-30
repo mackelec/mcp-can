@@ -18,4 +18,10 @@ eg
   }
   ```
 
-
+```
+enum CAN_CLOCK {
+    MCP_20MHZ,
+    MCP_16MHZ,
+    MCP_8MHZ
+};
+```
